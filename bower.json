@@ -1,0 +1,21 @@
+{
+  "name": "cronometro",
+  "authors": [
+    "luisPegurin <luis.hp.fut@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer-ts": "^0.1.28"
+  }
+}
